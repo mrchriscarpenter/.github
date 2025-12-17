@@ -2,7 +2,7 @@
     ☝️ PR title should follow conventional commits (https://conventionalcommits.org)
 
     Please carefully read the contribution docs before creating a pull request
-    👉 https://github.com/polkcounty/.github/blob/main/.github/CONTRIBUTING.md
+    👉 https://github.com/mrchriscarpenter/.github/blob/main/.github/CONTRIBUTING.md
 -->
 
 ## 🔗 Linked issue
@@ -39,8 +39,7 @@
 
 - [ ] I have linked an issue or discussion.
 - [ ] I have updated the documentation accordingly.
-- [ ] I have formatted my code with Prettier (`npm run prettier-check` and `npm run prettier-write`).
-- [ ] I have checked that my code lints (`npm run lint`).
+- [ ] I have formatted and linted my code.
 - [ ] I have added relevant tests.
 - [ ] I have verified all tests pass.
 - [ ] I have commented my code, particularly in hard-to-understand areas.
