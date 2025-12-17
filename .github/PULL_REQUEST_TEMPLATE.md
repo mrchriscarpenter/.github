@@ -1,8 +1,8 @@
 <!---
-☝️ PR title should follow conventional commits (https://conventionalcommits.org)
+    ☝️ PR title should follow conventional commits (https://conventionalcommits.org)
 
-Please carefully read the contribution docs before creating a pull request
- 👉 https://github.com/mrchriscarpenter/.github/blob/main/.github/CONTRIBUTING.md
+    Please carefully read the contribution docs before creating a pull request
+    👉 https://github.com/polkcounty/.github/blob/main/.github/CONTRIBUTING.md
 -->
 
 ## 🔗 Linked issue
@@ -13,11 +13,17 @@ Please carefully read the contribution docs before creating a pull request
 
 <!-- What types of changes does your code introduce? Put an `x` in all the boxes that apply. -->
 
-- [ ] 📖 Documentation (updates to the documentation or readme)
-- [ ] 🐞 Bug fix (a non-breaking change that fixes an issue)
-- [ ] 👌 Enhancement (improving an existing functionality like performance)
-- [ ] ✨ New feature (a non-breaking change that adds functionality)
-- [ ] ⚠️ Breaking change (fix or feature that would cause existing functionality to change)
+- [ ] ✨ feat: A new feature
+- [ ] 🐛 fix: A bug fix
+- [ ] 📚 docs: Documentation only changes
+- [ ] 💎 style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
+- [ ] 📦 refactor: A code change that neither fixes a bug nor adds a feature
+- [ ] 🚀 perf: A code change that improves performance
+- [ ] 🚨 test: Adding missing tests or correcting existing tests
+- [ ] 🛠 build: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
+- [ ] ⚙️ ci: Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)
+- [ ] ♻️ chore: Other changes that don't modify src or test files
+- [ ] 🗑 revert: Reverts a previous commit
 
 ## 📚 Description
 
@@ -37,3 +43,5 @@ Please carefully read the contribution docs before creating a pull request
 - [ ] I have checked that my code lints (`npm run lint`).
 - [ ] I have added relevant tests.
 - [ ] I have verified all tests pass.
+- [ ] I have commented my code, particularly in hard-to-understand areas.
+- [ ] I have extensively reviewed any AI-generated code to ensure accuracy.
